@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+   
+}
+#container {
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+h1 {
+background-color: gray;
+font-family: 'Permanent Marker', cursive;
+font-size: 75px;
+padding: 10px;
+
+}
+#start {
+    font-family: 'Merienda', cursive;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    position: static;
+}
+
+#questions {
+    font-family: 'Merienda', cursive;
+    font-size: 20px;
+    margin-top:10px;
+}
+
+
+
+
+font-family: 'Permanent Marker', cursive;
+font-family: 'Merienda', cursive;
+font-family: 'Satisfy', cursive;
